@@ -23,6 +23,7 @@
 
 #### Contributors :woman_student:	
 - <a href="https://github.com/hritisha">Hritisha</a>
+- <a href="https://github.com/emmadidivyasrujana">Divya Srujana</a>
 
 #### License
 
